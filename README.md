@@ -1,7 +1,7 @@
 # Link Robins — Languages
 
 The translations for the [Link Robins](https://linkrobins.com) dashboard and status pages, open for
-corrections. Nine languages, 962 strings each.
+corrections. Nine languages, 944 strings each.
 
 | Language | File | |
 |---|---|---|
@@ -43,6 +43,11 @@ tags, leave the tags alone.
 
 **English is not in this repository and never will be.** `lang/en.json` is the source, it lives in the
 application, and the check rejects any pull request that adds it.
+
+**The admin panel is not here either.** The operator screens behind `/admin` render in English by design, so
+their labels — `Captcha`, `Cron job`, `Payment processors` and the like — are not in these catalogues. If a
+word you expect is missing, that is usually why. Words that appear on both an admin screen and a customer
+screen *are* here, because a single entry serves every screen that uses it.
 
 ## Context: where each string appears
 

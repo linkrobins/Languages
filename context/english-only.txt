@@ -14,9 +14,7 @@ Extensions
 Flarum
 Flarum Hosting
 H:i
-Horizon
 ID
-MCP
 Markdown
 PHP
 RAM
