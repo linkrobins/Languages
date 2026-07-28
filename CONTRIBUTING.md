@@ -32,7 +32,7 @@ editor that produces the finished file for you. See the README.
 
 ## Consistency beats individual strings
 
-The 944 strings rest on maybe a hundred recurring words — monitor, uptime, incident, alert, key, dashboard.
+The 943 strings rest on maybe a hundred recurring words — monitor, uptime, incident, alert, key, dashboard.
 If one of those is wrong, it is wrong in fifty places. Say so once in the pull request ("監視 should be
 モニター throughout") rather than editing fifty rows by hand, and we will apply it everywhere.
 

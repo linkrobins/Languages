@@ -1,7 +1,7 @@
 # Link Robins — Languages
 
 The translations for the [Link Robins](https://linkrobins.com) dashboard and status pages, open for
-corrections. Nine languages, 944 strings each.
+corrections. Nine languages, 943 strings each.
 
 | Language | File | |
 |---|---|---|
