@@ -12,12 +12,15 @@ corrections. Nine languages, 944 strings each.
 | 한국어 | [`lang/ko.json`](lang/ko.json) | |
 | Polski | [`lang/pl.json`](lang/pl.json) | |
 | Русский | [`lang/ru.json`](lang/ru.json) | |
-| 简体中文 | [`lang/zh_CN.json`](lang/zh_CN.json) | first pass, unreviewed |
-| 繁體中文 | [`lang/zh_TW.json`](lang/zh_TW.json) | first pass, unreviewed |
+| 简体中文 | [`lang/zh_CN.json`](lang/zh_CN.json) | native corrections merged 2026-07-28 |
+| 繁體中文 | [`lang/zh_TW.json`](lang/zh_TW.json) | native corrections merged 2026-07-28 |
 
 **Every one of these was drafted without a native speaker reading it.** They shipped that way on purpose —
 a rough translation you can correct beats a perfect one that never arrives. So corrections are the point of
 this repository, and no correction is too small: one awkward word is a welcome pull request.
+
+The Chinese pair has since had a native pass. The other seven are still exactly as drafted, so that is where
+a first read is worth the most.
 
 Merged corrections go live on linkrobins.com within a day or two. You get credit in the commit that carries
 them across.
