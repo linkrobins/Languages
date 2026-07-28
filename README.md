@@ -47,11 +47,6 @@ tags, leave the tags alone.
 **English is not in this repository and never will be.** `lang/en.json` is the source, it lives in the
 application, and the check rejects any pull request that adds it.
 
-**The admin panel is not here either.** The operator screens behind `/admin` render in English by design, so
-their labels — `Captcha`, `Cron job`, `Payment processors` and the like — are not in these catalogues. If a
-word you expect is missing, that is usually why. Words that appear on both an admin screen and a customer
-screen *are* here, because a single entry serves every screen that uses it.
-
 ## Context: where each string appears
 
 A word can be a noun on one screen and a verb on another. [`context/strings.csv`](context/strings.csv) lists
